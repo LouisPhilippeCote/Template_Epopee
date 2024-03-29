@@ -1,0 +1,13 @@
+
+================================================================
+======== txAdmin v7.0.0 atop fxserver 7669 Starting - 2024-03-22, 5:06:17 p.m.
+================================================================
+
+================================================================
+======== Log Rotated - 2024-03-22, 5:06:17 p.m.                 
+================================================================
+[17:07:33][PotatoQc-Eminence] logged in from 127.0.0.1 via cfxre
+[17:13:55][PotatoQc-Eminence] executed "STOP SERVER"
+[17:14:09][PotatoQc-Eminence] executed "START SERVER"
+[17:17:38][PotatoQc-Eminence] executed "RESTART SERVER"
+[17:21:05][PotatoQc-Eminence] executed "RESTART SERVER"

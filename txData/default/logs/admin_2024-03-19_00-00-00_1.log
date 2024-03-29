@@ -1,0 +1,26 @@
+
+================================================================
+======== txAdmin v7.0.0 atop fxserver 7669 Starting - 2024-03-19, 3:41:48 p.m.
+================================================================
+[15:42:10][PotatoQc-Eminence] created admins file
+[15:42:37][PotatoQc-Eminence] Changing global settings via setup stepper and started Deployer.
+[15:42:39][PotatoQc-Eminence] Setting recipe.
+[15:45:54][PotatoQc-Eminence] Running recipe.
+[15:50:04][PotatoQc-Eminence] Completed and committed server deploy.
+[15:58:57][PotatoQc-Eminence] executed "closeserver"
+[15:59:05][PotatoQc-Eminence] executed "RESTART SERVER"
+[16:03:36][PotatoQc-Eminence] executed "STOP SERVER"
+[16:03:54][PotatoQc-Eminence] executed "START SERVER"
+[16:06:17][PotatoQc-Eminence] executed "RESTART SERVER"
+[16:58:21][PotatoQc-Eminence] executed "RESTART SERVER"
+[18:27:00][PotatoQc-Eminence] executed "list_aces"
+[18:29:35][PotatoQc-Eminence] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.0.0 atop fxserver 7669 Starting - 2024-03-19, 7:09:53 p.m.
+================================================================
+[19:10:02][PotatoQc-Eminence] logged in from 127.0.0.1 via cfxre
+[19:14:20][PotatoQc-Eminence] executed "RESTART SERVER"
+[19:21:45][PotatoQc-Eminence] executed "RESTART SERVER"
+[19:22:57][PotatoQc-Eminence] executed "RESTART SERVER"
+[19:29:10][PotatoQc-Eminence] executed "RESTART SERVER"
